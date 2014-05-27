@@ -28,7 +28,7 @@ Requirements
 Installation Instructions
 -------------------------
 1. Use Maven
-2. Run junit test project using AddressBookTest.java into the project
+
 
 Contribution
 ------------
