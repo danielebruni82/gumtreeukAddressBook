@@ -40,7 +40,7 @@ Daniele Bruni
 
 https://github.com/danielebruni82
 
-http://www.danielebruni.com
+http://www.danielebruni.com/en.html
 
 License
 -------
