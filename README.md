@@ -37,8 +37,10 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 Developers
 ----------
 Daniele Bruni
+
 https://github.com/danielebruni82
-www.danielebruni.com
+
+http://www.danielebruni.com
 
 License
 -------
