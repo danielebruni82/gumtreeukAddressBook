@@ -38,6 +38,7 @@ Developers
 ----------
 Daniele Bruni
 https://github.com/danielebruni82
+www.danielebruni.com
 
 License
 -------
