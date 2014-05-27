@@ -18,13 +18,17 @@ Requirements
 			
 			or
 			
-			Run the project mvn exec:java -Dexec.mainClass="Main" -Dexec.args="FILEPATH"
+			Run the project: mvn exec:java -Dexec.mainClass="Main" -Dexec.args="FILEPATH"
+
+			Run junit test: mvn test
+
+
 			
-			Run junit test project using AddressBookTest.java into the project
 
 Installation Instructions
 -------------------------
 1. Use Maven
+2. Run junit test project using AddressBookTest.java into the project
 
 Contribution
 ------------
